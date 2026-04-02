@@ -24,6 +24,11 @@ Examine the role of AI, big data, and genetic testing in population health manag
 - **Challenges:** Privacy, security, potential bias, and misinterpretation of results without proper counseling.
 - **Importance:** These non-traditional data sources support predictive, personalized, and preventive healthcare, contributing to precision medicine.
 
+## Midterm AI in Healthcare Glossary
+-For the midterm project, I created a glossary of key AI terms in healthcare to support understanding of technical concepts referenced throughout the course. The glossary includes definitions, healthcare examples, and the significance of terms such as AI, Clinical Decision Support Systems (CDSS), predictive analytics, digital biomarkers, and computational phenotyping.
+
+**Purpose:** This glossary serves as a reference for multidisciplinary healthcare teams, helping clinicians, data scientists, and health informatics professionals communicate effectively and apply AI technologies responsibly in patient care and research.
+
 ## References
 - Alder, S. (2025, March 20). Bipartisan genomic data protection act reintroduced in senate. *HIPAA Journal*. https://www.hipaajournal.com/genomic-data-protection-act/
 - Batko, K., & Ślęzak, D. (2022). The use of big data analytics in healthcare. *Journal of Big Data*. https://pmc.ncbi.nlm.nih.gov/articles/PMC8733917/
